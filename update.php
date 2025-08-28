@@ -14,6 +14,10 @@ if($db_password != null && ($db_pass == null || empty($db_pass))){
 }
 
 if (empty($update_url)) {
+    
+    
+    
+    
     $update_url = 'https://github.com/shabran01/SpeedRadius_Advanced/archive/refs/heads/main.zip';
 }
 
