@@ -83,7 +83,7 @@ see [LICENSE](LICENSE) file
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
 
-Mpesa : 0718167262
+Mpesa : 0745344636
 
 ## Thanks
 We appreciate all people who are participating in this project.
