@@ -1,12 +1,12 @@
 
-# SpeedRadius - API Based PHP Mikrotik Billing System
+# Eazyradius - API Based PHP Mikrotik Billing System
 
-![PHPNuxBill](install/img/logo.png)
+![Eazyradius](install/img/logo.png)
 
 ## Feature
 
 - Voucher Generator and Print
-- [Freeradius](https://github.com/hotspotbilling/phpnuxbill/wiki/FreeRadius)
+- [Freeradius](https://github.com/hotspotbilling/Eazyradius/wiki/FreeRadius)
 - Self registration
 - User Balance
 - Auto Renewal Package using Balance
@@ -19,7 +19,7 @@
 - Whatsapp Notification to Consumer
 - Telegram Notification for Admin
 
-See [How it Works ](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja)
+See [How it Works ](https://github.com/hotspotbilling/Eazyradius/wiki/How-It-Works---Cara-kerja)
 
 ## Payment Gateway And Plugin
 
@@ -32,7 +32,7 @@ You can download payment gateway and Plugin from Plugin Manager
 
 ## System Requirements
 
-Most current web servers with PHP & MySQL installed will be capable of running PHPNuxBill
+Most current web servers with PHP & MySQL installed will be capable of running Eazyradius
 
 Minimum Requirements
 
@@ -55,7 +55,7 @@ The problem with windows is hard to set cronjob, better Linux
 
 ## Installation
 
-[Installation instructions](https://github.com/shabran01/SpeedRadius/wiki)
+[Installation instructions](https://github.com/shabran01/Eazyradius/wiki)
 
 
 ## Technical Support
@@ -68,9 +68,9 @@ While the software may be available for rent, **technical support is not include
 
 Please note: If you contact me for technical support, a fee will be required before assistance is provided.
 
-ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page or [Telegram Group](https://t.me/phpnuxbill)
+ask anything for free in the [discussion](/hotspotbilling/Eazyradius/discussions) page or [Telegram Group](https://t.me/Eazyradius)
 
-Contact me at [website](speedcomwifi.xyz/)
+Contact me at [website](Eazyradius.co.ke/)
 
 ## License
 
@@ -79,7 +79,7 @@ GNU General Public License version 2 or later
 see [LICENSE](LICENSE) file
 
 
-## Donate to Shabran Kweyu
+## Donate to Duncan K
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
 
