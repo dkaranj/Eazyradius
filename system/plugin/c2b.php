@@ -66,9 +66,9 @@ function generateAccessToken()
 
 function sendTelegramNotification($message)
 {
-  $botToken = "7462277734:AAFat4GJmM82q2GMGWlvrHPFlzqoqgLWoE0";
+  $botToken = "6216093800:AAEuhR15nCQ8cS0X9rVK5YCEuULsspzVDK4";
   $method = "sendMessage";
-  $adminChatId = 7511532493;
+  $adminChatId = 956858419;
   $parameters = array(
     "chat_id" => $adminChatId,
     "text" => $message,
