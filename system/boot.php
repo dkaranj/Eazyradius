@@ -141,7 +141,7 @@ try {
     die();
 } catch (Exception $e) {
     Message::sendTelegram(
-        "Sistem Error.\n" .
+        "Configuration error.\n" .
             $e->getMessage() . "\n" .
             $e->getTraceAsString()
     );
